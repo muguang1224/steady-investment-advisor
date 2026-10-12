@@ -1,6 +1,6 @@
 {
   "name": "steady-investment-advisor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "稳健理财研究助手：把基金、银行理财、货币基金、债券等产品整理成结构化评估卡与对比表，聚焦低风险、短期限与流动性，并输出风险提示。",
   "author": {
     "name": "muguang1224",

@@ -1,0 +1,14 @@
+{
+  "name": "muguang-plugins",
+  "owner": {
+    "name": "muguang1224",
+    "url": "https://github.com/muguang1224"
+  },
+  "plugins": [
+    {
+      "name": "steady-investment-advisor",
+      "source": "./",
+      "description": "稳健理财研究助手：把基金、银行理财、货币基金、债券等产品整理成结构化评估卡与对比表，聚焦低风险、短期限与流动性，并输出风险提示。"
+    }
+  ]
+}
